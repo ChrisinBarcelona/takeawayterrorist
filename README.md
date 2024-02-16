@@ -25,35 +25,42 @@ Title: One-Minute McDonald's Hamburger Review
 
 Title: One-Minute Aromatic Crispy Duck Review
 
-Opening shot: Establishing shot of the Chinese takeaway restaurant or signage.
-Introduction: Host introduces the one-minute review and the Aromatic Crispy Duck dish.
-Close-up shot of the Aromatic Crispy Duck served on a plate.
-Shot of the duck being carved by the chef or waiter.
-Close-up shot of the crispy skin of the duck, showcasing its texture and golden color.
-Shot of the pancakes and condiments (hoisin sauce, cucumber, spring onions).
-Close-up shot of assembling the pancake with duck, hoisin sauce, cucumber, and spring onions.
-Shot of taking the first bite of the Aromatic Crispy Duck pancake.
-Reaction shot of the host expressing satisfaction or any immediate thoughts.
-Shot of the host taking a few more bites, emphasizing the flavor and crunchiness.
-Overlay text: "Delicious & Crispy."
-Quick shot of any additional dishes or sides that accompany the duck (optional).
-Closing shot: Host giving a final thumbs-up or rating while holding the pancake.
-Outro: Host thanking the audience for watching and encouraging them to subscribe/follow for more reviews.
+1. Opening shot: Establishing shot of the Chinese takeaway restaurant or signage.
+2. Introduction: Host introduces the one-minute review and the Aromatic Crispy Duck dish.
+3. Close-up shot of the Aromatic Crispy Duck served on a plate.
+4. Shot of the duck being carved by the chef or waiter.
+5. Close-up shot of the crispy skin of the duck, showcasing its texture and golden color.
+6. Shot of the pancakes and condiments (hoisin sauce, cucumber, spring onions).
+7. Close-up shot of assembling the pancake with duck, hoisin sauce, cucumber, and spring onions.
+8. Shot of taking the first bite of the Aromatic Crispy Duck pancake.
+9. Reaction shot of the host expressing satisfaction or any immediate thoughts.
+10. Shot of the host taking a few more bites, emphasizing the flavor and crunchiness.
+11. Overlay text: "Delicious & Crispy."
+12. Quick shot of any additional dishes or sides that accompany the duck (optional).
+13. Closing shot: Host giving a final thumbs-up or rating while holding the pancake.
+14. Outro: Host thanking the audience for watching and encouraging them to subscribe/follow for more reviews.
 
 Title: One-Minute Doner Kebab on Chips Review
 
-Opening shot: Establishing shot of the kebab shop or signage.
-Introduction: Host introduces the one-minute review and the Doner Kebab on Chips dish.
-Close-up shot of the Doner Kebab meat rotating on the spit.
-Shot of the chef slicing the freshly cooked Doner Kebab meat.
-Close-up shot of the sliced Doner Kebab meat being placed on a bed of hot, golden chips.
-Shot of adding toppings such as lettuce, tomato, onions, and sauces (optional).
-Close-up shot of the sauce being drizzled over the Doner Kebab and chips.
-Shot of the host mixing the ingredients together for an even distribution of flavors.
-Close-up shot of taking the first bite of the Doner Kebab on Chips.
-Reaction shot of the host expressing satisfaction or any immediate thoughts.
-Shot of the host taking a few more bites, emphasizing the taste and texture.
-Overlay text: "Satisfying & Flavorful."
-Quick shot of any additional items like a side salad or drink (optional).
-Closing shot: Host giving a final thumbs-up or rating while holding the dish.
-Outro: Host thanking the audience for watching and encouraging them to subscribe/follow for more reviews.
+1. Opening shot: Establishing shot of the kebab shop or signage.
+2. Introduction: Host introduces the one-minute review and the Doner Kebab on Chips dish.
+3. Close-up shot of the Doner Kebab meat rotating on the spit.
+4. Shot of the chef slicing the freshly cooked Doner Kebab meat.
+5. Close-up shot of the sliced Doner Kebab meat being placed on a bed of hot, golden chips.
+6. Shot of adding toppings such as lettuce, tomato, onions, and sauces (optional).
+7. Close-up shot of the sauce being drizzled over the Doner Kebab and chips.
+8. Shot of the host mixing the ingredients together for an even distribution of flavors.
+9. Close-up shot of taking the first bite of the Doner Kebab on Chips.
+10. Reaction shot of the host expressing satisfaction or any immediate thoughts.
+11. Shot of the host taking a few more bites, emphasizing the taste and texture.
+12. Overlay text: "Satisfying & Flavorful."
+13. Quick shot of any additional items like a side salad or drink (optional).
+14. Closing shot: Host giving a final thumbs-up or rating while holding the dish.
+15. Outro: Host thanking the audience for watching and encouraging them to subscribe/follow for more reviews.
+
+
+
+
+
+
+
