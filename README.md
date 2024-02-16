@@ -69,6 +69,7 @@ Title: One-Minute Doner Kebab on Chips Review
 1. Water Pistol
 2. Portrait of Dog with Balaclava
 3. Walking his dog as they are wearing balaclava
+4. T-Shirt with 'Touts Coming Out'
 
 ## Animations
 
@@ -90,7 +91,7 @@ Title: One-Minute Doner Kebab on Chips Review
 5. Running into the ocean in thong
 6. Sticking his tongue out
 7. In the car
-8. Call from Monkey / Margo / Fanyard
+8. Call from Monkey / Margo / Fanyard / Minge
 
 # Setting
 
@@ -105,7 +106,6 @@ Title: One-Minute Doner Kebab on Chips Review
 9. Sandwich
 10. Victoria Square
 11. Stephen Nolan
-12.  
 
 
 
