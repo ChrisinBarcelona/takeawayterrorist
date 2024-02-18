@@ -109,17 +109,17 @@ Title: One-Minute Doner Kebab on Chips Review
 
 ## Locations
 
-###Fish & Chips
-Manny's Fish and Chips
+Fish & Chips
+1. Manny's Fish and Chips
 
-###Pizza
-Little Italy
-Pizza Guyz
+Pizza
+1. Little Italy
+2. Pizza Guyz
 
-###Chinese
-Abacus
-The Silk Chinese, Saintfield Road
-Castle Hill 
+Chinese
+1. Abacus
+2. The Silk Chinese, Saintfield Road
+3. Castle Hill 
 
 
 
