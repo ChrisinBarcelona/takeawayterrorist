@@ -82,7 +82,7 @@ Title: One-Minute Doner Kebab on Chips Review
 - Order: 
 - Price:
 
-# Cutaways
+## Cutaways
 
 1. Walking with Girlfriend
 2. Snogging his Girlfriend
@@ -93,7 +93,7 @@ Title: One-Minute Doner Kebab on Chips Review
 7. In the car
 8. Call from Monkey / Margo / Fanyard / Minge
 
-# Setting
+## Setting
 
 1. Harlond and Wolff Cranes
 2. City Hall
@@ -106,6 +106,23 @@ Title: One-Minute Doner Kebab on Chips Review
 9. Sandwich
 10. Victoria Square
 11. Stephen Nolan
+
+## Locations
+
+###Fish & Chips
+Manny's Fish and Chips
+
+###Pizza
+Little Italy
+Pizza Guyz
+
+###Chinese
+Abacus
+The Silk Chinese, Saintfield Road
+Castle Hill 
+
+
+
 
 
 
